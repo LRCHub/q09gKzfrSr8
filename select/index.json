@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Lowdown",
+  "base_artist": "Mario Biondi",
+  "createdAt": "2026-02-08T05:05:38.792158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "Boz Scaggs",
+      "has_synced": false,
+      "path": "select/01_Lowdown_Boz_Scaggs.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "Lali Puna",
+      "has_synced": false,
+      "path": "select/02_Lowdown_Lali_Puna.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/03_Lowdown_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Lowdown",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/04_The_Lowdown_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/05_Lowdown_Chicago.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "Boz Scaggs",
+      "has_synced": true,
+      "path": "select/06_Lowdown_Boz_Scaggs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lowdown (Bonus Track)",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/07_Lowdown_(Bonus_Track)_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/08_Lowdown_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lowdown and Dirty",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/09_Lowdown_and_Dirty_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/10_Lowdown_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "Wire",
+      "has_synced": true,
+      "path": "select/11_Lowdown_Wire.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/12_Lowdown_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lowdown In the Street",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/13_Lowdown_In_the_Street_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lowdown",
+      "artist": "Boz Scaggs",
+      "has_synced": true,
+      "path": "select/14_Lowdown_Boz_Scaggs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lowdown feat. Mario Biondi & Chaka Khan / Incognito",
+      "artist": "Mario Biondi",
+      "has_synced": false,
+      "path": "select/pl_01_Lowdown_feat._Mario_Biondi_&_Chaka_Khan___Incognito_Mario_Biondi.txt"
+    }
+  ]
+}
